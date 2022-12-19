@@ -1,2 +1,2 @@
-SELECT * FROM
+SELECT * FROM ...
 ORDER BY ...;
