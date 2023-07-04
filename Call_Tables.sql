@@ -1,0 +1,1 @@
+SELECT schemaname,tablename FROM pg_tables WHERE  schemaname IN ('rte','gestionnaires','traitements') ORDER BY schemaname
